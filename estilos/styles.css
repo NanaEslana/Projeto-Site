@@ -5,6 +5,7 @@
 
 body {
     background-color: rgb(233, 152, 98);
+    box-sizing: border-box;
 }
 
 main {
